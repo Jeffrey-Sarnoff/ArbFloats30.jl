@@ -1,5 +1,5 @@
 ## ArbFloats30.jl
-ArbFloat30 for accurate floating point math at 30 digits
+accurate floating point math at 30 digits
 
 ```ruby
         Jeffrey A. Sarnoff                           2015-Dec-31 06:00:00 UTC America/New_York
